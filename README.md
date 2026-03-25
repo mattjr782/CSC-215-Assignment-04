@@ -20,5 +20,5 @@ StudentClient_MatthewRivera.java
 ---------------------------------------------------------------------------------------------------------
 For part E:  
 DegreePlanner_3dArray_MatthewRivera.java  
-DegreePlanner_OOP_MatthewRivera.java (Still have to upload)  
-Semester.java (Still have to upload)
+DegreePlanner_OOP_MatthewRivera.java  
+Semester.java
